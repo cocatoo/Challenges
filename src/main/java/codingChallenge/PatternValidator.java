@@ -1,5 +1,9 @@
 package codingChallenge;
 
+/*
+Find if the given pattern is valid or not.
+*/
+
 import java.util.Stack;
 
 public class PatternValidator {
